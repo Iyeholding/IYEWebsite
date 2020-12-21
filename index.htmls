@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>IYEHolding</title>
+</head>
+<body>
+    <div class="message">
+        <div class="-center">
+            Normal  
+        </div>
+    </div>
+    <div class="message-danger">
+        <div class="-center">
+            Danger  
+        </div>
+    </div>
+    <div class="message-success">
+        <div class="-center">
+            Success  
+        </div>
+    </div>
+    <hr>
+    <div class="message">
+        <div class="-right">
+            Normal Right 
+        </div>
+    </div>
+    <div class="message-danger">
+        <div class="-right">
+            Danger  right
+        </div>
+    </div>
+    <div class="message-success">
+        <div class="-right">
+            Success  right
+        </div>
+    </div>
+    <hr>
+    <div class="message">
+        <div class="-left">
+            Normal Left 
+        </div>
+    </div>
+    <div class="message-danger">
+        <div class="-left">
+            Danger  Left
+        </div>
+    </div>
+    <div class="message-success">
+        <div class="-left">
+            Success  Left
+        </div>
+    </div>
+
+</body>
+</html>
